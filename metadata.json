@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "A vibrant social experience featuring curated photo feeds, interactive stories, snap-scroll reels, direct messaging, and creative photo filters with OLED dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
